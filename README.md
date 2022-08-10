@@ -1,5 +1,7 @@
 # Build frontend project with metamask on klaytn
 
+Get MetaMask from [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en-US) and then import your privatekey or Mnemonic Phrase.
+
 Go to [ChainList](https://chainlist.org/en) to add `Klaytn Mainnet Cypress` and `Klaytn Testnet Baobab` to your Metamask.
 
 Use `ethers` or `web3` to develop the project.
